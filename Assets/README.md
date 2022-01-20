@@ -4,5 +4,5 @@ This application was created to generate passwords. I updated the Javascript fil
 
 -Travis Woods
 
-![imagelink](./Assets/images/Password-Generator.png)
+![imagelink](/Assets/images/Passwordgenerator.png)
 The site is published at https://woodstr3313.github.io/My-Portfolio/

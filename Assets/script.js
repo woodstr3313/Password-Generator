@@ -51,7 +51,7 @@ if (num_char != null && num_char >= 8 && num_char <= 128) {
       }
     }
   }
-  else { // num_char is invalid
+  else {//num_char is invalid
     alert("Not enough characters!");
   }
 
